@@ -37,7 +37,9 @@ AGIS
 
 	Download slORFfinder.tar.gz and extract the files in YOURPATH
 	> tar xzf slORFfinder.tar.gz
+ 
 	> cd slORFfinder
+ 
 	> chmod +x slORFfinder
 	
 	Now you can excute directly by typing "YOURPATH/slORFfinder" in command line
